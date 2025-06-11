@@ -1,0 +1,46 @@
+.\objects\app.o: ..\HAL\APP.c
+.\objects\app.o: ..\HAL\APP.h
+.\objects\app.o: ..\USER\stm32f10x.h
+.\objects\app.o: ..\CORE\core_cm3.h
+.\objects\app.o: E:\keil 5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\app.o: ..\USER\system_stm32f10x.h
+.\objects\app.o: ..\USER\stm32f10x_conf.h
+.\objects\app.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h
+.\objects\app.o: ..\USER\stm32f10x.h
+.\objects\app.o: ..\STM32F10x_FWLib\inc\stm32f10x_bkp.h
+.\objects\app.o: ..\STM32F10x_FWLib\inc\stm32f10x_can.h
+.\objects\app.o: ..\STM32F10x_FWLib\inc\stm32f10x_cec.h
+.\objects\app.o: ..\STM32F10x_FWLib\inc\stm32f10x_crc.h
+.\objects\app.o: ..\STM32F10x_FWLib\inc\stm32f10x_dac.h
+.\objects\app.o: ..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+.\objects\app.o: ..\STM32F10x_FWLib\inc\stm32f10x_dma.h
+.\objects\app.o: ..\STM32F10x_FWLib\inc\stm32f10x_exti.h
+.\objects\app.o: ..\STM32F10x_FWLib\inc\stm32f10x_flash.h
+.\objects\app.o: ..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h
+.\objects\app.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+.\objects\app.o: ..\STM32F10x_FWLib\inc\stm32f10x_i2c.h
+.\objects\app.o: ..\STM32F10x_FWLib\inc\stm32f10x_iwdg.h
+.\objects\app.o: ..\STM32F10x_FWLib\inc\stm32f10x_pwr.h
+.\objects\app.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+.\objects\app.o: ..\STM32F10x_FWLib\inc\stm32f10x_rtc.h
+.\objects\app.o: ..\STM32F10x_FWLib\inc\stm32f10x_sdio.h
+.\objects\app.o: ..\STM32F10x_FWLib\inc\stm32f10x_spi.h
+.\objects\app.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+.\objects\app.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+.\objects\app.o: ..\STM32F10x_FWLib\inc\stm32f10x_wwdg.h
+.\objects\app.o: ..\STM32F10x_FWLib\inc\misc.h
+.\objects\app.o: ..\radio\adc.h
+.\objects\app.o: ..\HAL\delay\delay.h
+.\objects\app.o: ..\HAL\DHT11.h
+.\objects\app.o: E:\keil 5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\app.o: ..\HAL\led.h
+.\objects\app.o: ..\radio\sx1276\sx1276.h
+.\objects\app.o: ..\radio\sx1276\sx1276Regs-Fsk.h
+.\objects\app.o: ..\radio\sx1276\sx1276Regs-LoRa.h
+.\objects\app.o: ..\radio\radio.h
+.\objects\app.o: E:\keil 5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\app.o: ..\HAL\Flame.h
+.\objects\app.o: ..\HAL\oled.h
+.\objects\app.o: ..\HAL\usart3.h
+.\objects\app.o: ..\HAL\sys.h
+.\objects\app.o: ..\HAL\MQ.h

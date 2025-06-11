@@ -1,0 +1,5 @@
+*** Target 'SX127xDriver'  - Device Family 'Cortex-M3', default ARM-Compiler version 'Unspecified: use latest compiler version 5' is not available.
+*** Please review the installed ARM Compiler Versions:
+   'Manage Project Items - Folders/Extensions' to manage ARM Compiler Versions.
+   'Options for Target - Target' to select an ARM Compiler Version for the target.
+*** Build aborted.
